@@ -1,0 +1,124 @@
+{
+  "courses": [
+    {
+      "code": "PCS 101",
+      "title": "Introduction to Peace Studies",
+      "pdf": ""
+    },
+    {
+      "code": "PCS 103",
+      "title": "Introduction to Peace Education",
+      "pdf": ""
+    },
+    {
+      "code": "PCS 105",
+      "title": "Introduction to Conflict Resolution Process I",
+      "pdf": ""
+    },
+    {
+      "code": "PCS 107",
+      "title": "Ethnic Conflict in Nigeria",
+      "pdf": ""
+    },
+    {
+      "code": "PCS 102",
+      "title": "Peace Thinking and Peace Making",
+      "pdf": ""
+    },
+    {
+      "code": "PCS 104",
+      "title": "Introduction to Conflict Analysis",
+      "pdf": ""
+    },
+    {
+      "code": "PCS 106",
+      "title": "Media, Information Management and Conflict",
+      "pdf": ""
+    },
+    {
+      "code": "PCS 108",
+      "title": "Conflict and Social Change",
+      "pdf": ""
+    },
+    {
+      "code": "PCS 110",
+      "title": "Religions in Conflict Resolution",
+      "pdf": ""
+    },
+    {
+      "code": "GST 101",
+      "title": "Communication in English I",
+      "pdf": ""
+    },
+    {
+      "code": "GST 102",
+      "title": "Use of English and Communication II",
+      "pdf": ""
+    },
+    {
+      "code": "GST 103",
+      "title": "Use of Library and ICT",
+      "pdf": ""
+    },
+    {
+      "code": "GST 104",
+      "title": "Philosophy, History and Development of Science",
+      "pdf": ""
+    },
+    {
+      "code": "GST 105",
+      "title": "Introduction to Entrepreneur Skills",
+      "pdf": ""
+    },
+    {
+      "code": "GST 106",
+      "title": "Evaluation, Opportunity and Business Concept",
+      "pdf": ""
+    },
+    {
+      "code": "POL 101",
+      "title": "Introduction to Political Science",
+      "pdf": ""
+    },
+    {
+      "code": "POL 102",
+      "title": "African Government and Politics",
+      "pdf": ""
+    },
+    {
+      "code": "POL 108",
+      "title": "Nigerian Legal System",
+      "pdf": ""
+    },
+    {
+      "code": "SOC 101",
+      "title": "Introduction to Sociology I",
+      "pdf": ""
+    },
+    {
+      "code": "SOC 102",
+      "title": "Introduction to Sociology II",
+      "pdf": ""
+    },
+    {
+      "code": "SOC 110",
+      "title": "Sociology of the Aged",
+      "pdf": ""
+    },
+    {
+      "code": "SOC 111",
+      "title": "Sociology of Mass Communication",
+      "pdf": ""
+    },
+    {
+      "code": "CSS 101",
+      "title": "Introduction to Criminology I",
+      "pdf": ""
+    },
+    {
+      "code": "PSY 101",
+      "title": "Introduction to Psychology",
+      "pdf": ""
+    }
+  ]
+}
